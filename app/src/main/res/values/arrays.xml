@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="class1">
+        <item>교양/교직/군사학</item>
+        <item>대학</item>
+        <item>대학원</item>
+        <item>전문대학원</item>
+        <item>온라인수업</item>
+        <item>원어강의</item>
+        <item>계절학기</item>
+    </string-array>
+    <string-array name="culture">
+        <item>글쓰기</item>
+        <item>실용영어</item>
+        <item>수리</item>
+        <item>언어와 문학</item>
+        <item>사상과 가치</item>
+        <item>역사와 문화</item>
+        <item>사회와 제도</item>
+        <item>자연과 환경</item>
+        <item>기초과학</item>
+        <item>외국어</item>
+        <item>일반교양</item>
+        <item>교직과목</item>
+        <item>군사학</item>
+    </string-array>
+    <string-array name="univ">
+        <item>인문대학</item>
+        <item>사회과학대학</item>
+        <item>자연과학대학</item>
+        <item>경상대학</item>
+        <item>법과대학</item>
+        <item>공과대학</item>
+        <item>농업생명과학대학</item>
+        <item>사범대학</item>
+        <item>예술대학</item>
+        <item>의과대학</item>
+        <item>치과대학</item>
+        <item>수의과대학</item>
+        <item>생활과학대학</item>
+        <item>자율전공부</item>
+        <item>전자전기컴퓨터학부</item>
+        <item>간호대학</item>
+        <item>IT대학</item>
+        <item>글로벌인재학부</item>
+        <item>약학대학</item>
+        <item>에너지공학부</item>
+        <item>행정학부</item>
+    </string-array>
+    <string-array name="inmon">
+        <item>국어국문학과</item>
+        <item>영어영문학과</item>
+        <item>불어불문학과</item>
+        <item>독어독문학과</item>
+        <item>중어중문학과</item>
+        <item>사학과</item>
+        <item>철학과</item>
+        <item>고고인류학과</item>
+        <item>일어일문학과</item>
+        <item>한문학과</item>
+        <item>노어노문학과</item>
+    </string-array>
+    <string-array name="sah">
+        <item>정치외교학과</item>
+        <item>사회학과</item>
+        <item>지리학과</item>
+        <item>문헌정보학과</item>
+        <item>심리학과</item>
+        <item>사회복지학과</item>
+        <item>신문방송학과</item>
+        <item>사회복지학부</item>
+    </string-array>
+</resources>

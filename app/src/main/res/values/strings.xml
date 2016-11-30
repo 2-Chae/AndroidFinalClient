@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="s1">교양/교직/군사학</string>
+    <string name="s2">핵심교양 글쓰기</string>
+    <string name="s3">핵심교양 글쓰기?</string>
+    <string name="s_practice">과목</string>
+</resources>

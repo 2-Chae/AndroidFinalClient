@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.and.afinal.Practice">
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner_practice"
+        android:prompt="@string/s_practice"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/time"
+        android:hint="마감시간"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memo"
+        android:hint="내용"/>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/add"
+                android:text="추가"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                />
+            <Button
+                android:id="@+id/sub"
+                android:text="삭제"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                />
+
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
